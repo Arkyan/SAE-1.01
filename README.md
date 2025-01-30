@@ -17,7 +17,7 @@ Dans ce projet nous avons comme fonctionnalité la plus "compliquée", la gestio
 donc de sauvegarder les scores de chaque joueur même si le programme est fermé
 
 # ⚠️ Problèmes rencontrés
-Nous avons rencontrés principalement un problème au lancement dans une console python, où le programme se lançait puis se fermer soudainement mais ce problème n'était présent que dans la "console python" dans un IDE ou dans l'invite de commande windows il n'y avait aucun soucis
+Nous avons rencontrés principalement un problème au lancement dans une console python, où le programme se lançait puis se fermer soudainement mais ce problème n'était présent que dans la "console python" dans un IDE ou dans l'invite de commande windows il n'y avait aucun soucis.
 
 # 🏆 Résultat
 Le tout fonctionne globalement bien et sans soucis.  
