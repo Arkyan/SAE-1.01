@@ -2,6 +2,7 @@
 
 # 📖 Description rapide  
 
+Cette SAé repose sur la Ressource BUT1 R1.01 : Initiation au développement 
 Ce projet est donc le premier de mon année de BUT1. Il a été réalisé en binôme avec [Alexandre Ducouret](https://github.com/LightNight6423)  
 Il est entièrement en Python, et par conséquent n'est pas très compliqué.
 Son principe est de pouvoir jouer à quatre mini-jeux qui sont :
